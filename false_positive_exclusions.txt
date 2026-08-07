@@ -6,11 +6,11 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+Carrd
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -29,11 +29,11 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -47,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
