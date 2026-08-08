@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-Carrd
 Chatujme.cz
 Codolio
 DeviantArt
@@ -20,6 +19,7 @@ Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -47,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
