@@ -17,9 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Pornhub
@@ -34,13 +33,14 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
+fixya
 hunting
 igromania
 interpals
@@ -48,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
