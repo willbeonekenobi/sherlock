@@ -5,11 +5,13 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carrd
+CGTrader
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -19,6 +21,7 @@ Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -32,15 +35,14 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -49,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
