@@ -15,11 +15,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -50,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
