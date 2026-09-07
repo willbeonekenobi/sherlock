@@ -14,14 +14,17 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -49,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
