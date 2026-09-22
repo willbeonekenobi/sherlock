@@ -2,13 +2,11 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-BoardGameGeek
 CGTrader
-Carrd
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -20,7 +18,6 @@ Houzz
 Hubski
 Instapaper
 Itch.io
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
