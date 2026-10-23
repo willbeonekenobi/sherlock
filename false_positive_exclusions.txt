@@ -4,12 +4,13 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -20,8 +21,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -35,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
