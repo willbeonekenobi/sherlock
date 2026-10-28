@@ -3,9 +3,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -18,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -35,6 +37,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
