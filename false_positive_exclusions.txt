@@ -1,9 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -29,6 +28,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -44,6 +44,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
