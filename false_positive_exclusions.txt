@@ -1,8 +1,8 @@
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -14,10 +14,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rajce.net
 Rarible
 Realmeye
@@ -29,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -43,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
