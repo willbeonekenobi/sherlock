@@ -2,6 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -21,13 +22,11 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
