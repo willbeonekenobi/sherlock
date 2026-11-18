@@ -1,13 +1,10 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
-Cplusplus
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -43,8 +40,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
-xHamster
